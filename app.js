@@ -1,2 +1,1 @@
-/*****************Maryam ******************** */
-const protend = true;
+const pretend = true;
